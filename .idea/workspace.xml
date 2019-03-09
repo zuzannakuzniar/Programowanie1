@@ -2,12 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc3fcfef-e7de-4a6c-880e-613a873d425a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day1/Zadanie3/Zad1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day1/Zadanie3/Zad2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day1/Zadanie3/Zad3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day1/Zadanie3/Zad4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadanie4/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadanie4/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadanie4/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadanie4/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadanie4/Resizable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadanie4/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadanie4/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadanie4/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadanie4/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie I/Day1/Zadanie1/Zad1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie I/Day1/Zadanie1/Zad2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie I/Day1/Zadanie1/Zad3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie I/Day1/Zadanie1/Zad4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie I/Day1/Zadanie1/Zad5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie I/Day1/Zadanie1/Zad6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie I/Day1/Zadanie1/Zad7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie I/Day1/Zadanie1/Zad8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie I/Day1/Zadanie2_1/AbstractMuzyk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie I/Day1/Zadanie2_1/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie I/Day1/Zadanie2_1/Muzyk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie I/Day1/Zadanie2_1/Orkiestra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie I/Day1/Zadanie2_1/Pianista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie I/Day1/Zadanie2_1/PianistaImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie I/Day1/Zadanie2_1/Skrzypek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie I/Day1/Zadanie2_1/SkrzypekImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie I/Day1/Zadanie2_1/Trebacz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie I/Day1/Zadanie2_1/TrebaczImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie I/META-INF/Programowanie I.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,13 +40,104 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Zadanie4/Circle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="78" column="5" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
+              <folding>
+                <element signature="e#97#98#0" expanded="true" />
+                <element signature="e#121#122#0" expanded="true" />
+                <element signature="e#171#172#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#265#266#0" expanded="true" />
+                <element signature="e#838#839#0" expanded="true" />
+                <element signature="e#886#887#0" expanded="true" />
+                <element signature="e#1203#1204#0" expanded="true" />
+                <element signature="e#1231#1232#0" expanded="true" />
+                <element signature="e#1300#1301#0" expanded="true" />
+                <element signature="e#1360#1361#0" expanded="true" />
+                <element signature="e#1628#1629#0" expanded="true" />
+                <element signature="e#1688#1689#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Zadanie4/Rectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+              <folding>
+                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#547#548#0" expanded="true" />
+                <element signature="e#956#957#0" expanded="true" />
+                <element signature="e#1007#1008#0" expanded="true" />
+                <element signature="e#1443#1444#0" expanded="true" />
+                <element signature="e#1503#1504#0" expanded="true" />
+                <element signature="e#1771#1772#0" expanded="true" />
+                <element signature="e#1831#1832#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Zadanie4/Shape.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Zadanie4/Triangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              <folding>
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#408#409#0" expanded="true" />
+                <element signature="e#458#459#0" expanded="true" />
+                <element signature="e#484#485#0" expanded="true" />
+                <element signature="e#1217#1218#0" expanded="true" />
+                <element signature="e#1268#1269#0" expanded="true" />
+                <element signature="e#1437#1438#0" expanded="true" />
+                <element signature="e#1497#1498#0" expanded="true" />
+                <element signature="e#1765#1766#0" expanded="true" />
+                <element signature="e#1825#1826#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Zadanie4/Shapes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="29" column="102" selection-start-line="29" selection-start-column="102" selection-end-line="29" selection-end-column="102" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -60,8 +174,26 @@
         <option value="$PROJECT_DIR$/src/Day1/Zadanie3/Zad2.java" />
         <option value="$PROJECT_DIR$/src/Day1/Zadanie3/Zad3.java" />
         <option value="$PROJECT_DIR$/src/Day1/Zadanie3/Zad4.java" />
+        <option value="$PROJECT_DIR$/src/Shape.java" />
+        <option value="$PROJECT_DIR$/src/Zadanie4/App.java" />
+        <option value="$PROJECT_DIR$/src/Zadanie4/Resizable.java" />
+        <option value="$PROJECT_DIR$/src/Zadanie4/Position.java" />
+        <option value="$PROJECT_DIR$/src/Zadanie4/Movable.java" />
+        <option value="$PROJECT_DIR$/src/Zadanie4/Square.java" />
+        <option value="$PROJECT_DIR$/src/Zadanie4/Circle.java" />
+        <option value="$PROJECT_DIR$/src/Zadanie4/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/Zadanie4/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/Zadanie4/ResizeableAll.java" />
+        <option value="$PROJECT_DIR$/src/Zadanie4/Shape.java" />
+        <option value="$PROJECT_DIR$/src/Zadanie4/Shapes.java" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="365" />
@@ -89,19 +221,6 @@
               <item name="ProgramowanieI" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Day1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgramowanieI" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Day1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgramowanieI" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Day1" type="462c0819:PsiDirectoryNode" />
-              <item name="Zadanie3" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -109,7 +228,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552118966357" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552133307670" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
@@ -130,13 +249,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Zad4">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day1.Zadanie2_1.App" />
+  <component name="RunManager" selected="Application.Shapes">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadanie4.App" />
       <module name="ProgramowanieI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day1.Zadanie2_1.*" />
+          <option name="PATTERN" value="Zadanie4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +263,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day1.Zadanie3.Zad1" />
+    <configuration name="Shapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadanie4.Shapes" />
       <module name="ProgramowanieI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day1.Zadanie3.*" />
+          <option name="PATTERN" value="Zadanie4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,11 +317,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Shapes" />
+        <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.Zad4" />
         <item itemvalue="Application.Zad3" />
         <item itemvalue="Application.Zad2" />
-        <item itemvalue="Application.Zad1" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -221,6 +340,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1932886" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -230,14 +350,43 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38101983" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38101983" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3295302" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="PlantUML" order="8" weight="0.3295302" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1932886" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38101983" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -249,35 +398,6 @@
       <window_info anchor="right" id="PlantUML" order="6" weight="0.3295302" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24966443" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.3286119" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.38101983" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39943343" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="PlantUML" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
     </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
@@ -451,6 +571,161 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day2/Zadanie4/Zad1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zadanie4/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zadanie4/Movable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zadanie4/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zadanie4/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="78" selection-end-column="5" />
+          <folding>
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#1202#1203#0" expanded="true" />
+            <element signature="e#1228#1229#0" expanded="true" />
+            <element signature="e#1306#1307#0" expanded="true" />
+            <element signature="e#1345#1346#0" expanded="true" />
+            <element signature="e#1571#1572#0" expanded="true" />
+            <element signature="e#1610#1611#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zadanie4/Resizable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zadanie4/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="78" column="5" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+            <element signature="e#886#887#0" expanded="true" />
+            <element signature="e#1203#1204#0" expanded="true" />
+            <element signature="e#1231#1232#0" expanded="true" />
+            <element signature="e#1300#1301#0" expanded="true" />
+            <element signature="e#1360#1361#0" expanded="true" />
+            <element signature="e#1628#1629#0" expanded="true" />
+            <element signature="e#1688#1689#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zadanie4/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding>
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#1217#1218#0" expanded="true" />
+            <element signature="e#1268#1269#0" expanded="true" />
+            <element signature="e#1437#1438#0" expanded="true" />
+            <element signature="e#1497#1498#0" expanded="true" />
+            <element signature="e#1765#1766#0" expanded="true" />
+            <element signature="e#1825#1826#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zadanie4/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zadanie4/ResizeableAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zadanie4/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+          <folding>
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#956#957#0" expanded="true" />
+            <element signature="e#1007#1008#0" expanded="true" />
+            <element signature="e#1443#1444#0" expanded="true" />
+            <element signature="e#1503#1504#0" expanded="true" />
+            <element signature="e#1771#1772#0" expanded="true" />
+            <element signature="e#1831#1832#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zadanie4/Shapes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="29" column="102" selection-start-line="29" selection-start-column="102" selection-end-line="29" selection-end-column="102" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

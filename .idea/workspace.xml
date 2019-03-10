@@ -2,6 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc3fcfef-e7de-4a6c-880e-613a873d425a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Wątki/MyRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Wątki/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie4_1/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie4_1/Movable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie4_1/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie4_1/Resizable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie4_1/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie4_1/Shapes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie4_1/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie4_1/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie5/Zad1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie5/Zad2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie5/Zad3.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Day2/Wątki/MyThread.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Day2/Zadanie5/Zad1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Day2/Zadanie5/Zad2.java" afterDir="false" />
@@ -11,7 +24,7 @@
       <change beforePath="$PROJECT_DIR$/out/production/ProgramowanieI/Wątki/MyThread.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ProgramowanieI/Zadanie4/Circle.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ProgramowanieI/Zadanie4/Movable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramowanieI/Zadanie4/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramowanieI/Zadanie4/Position.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie4_1/Position.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ProgramowanieI/Zadanie4/Rectangle.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ProgramowanieI/Zadanie4/Resizable.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ProgramowanieI/Zadanie4/Shape.class" beforeDir="false" />
@@ -179,13 +192,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Day2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Day1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgramowanieI" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Day2" type="462c0819:PsiDirectoryNode" />
-              <item name="Zadanie5" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -193,7 +199,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552143492819" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552204917241" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -308,9 +314,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1932886" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1932886" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -319,7 +324,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38101983" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38101983" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

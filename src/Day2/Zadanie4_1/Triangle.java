@@ -1,29 +1,29 @@
-package Zadanie4;
+package Day2.Zadanie4_1;
 
 import java.util.Objects;
 
-public class Rectangle extends Shape implements Resizable {
+public class Triangle extends Shape implements Resizable {
     protected double a;
-    protected double b;
+    protected double h;
     protected Position position;
     protected int x;
     protected int y;
 
-    public Rectangle(double a, double b, int x, int y){
+    public Triangle(double a, double h, int x, int y) {
         this.a = a;
-        this.b = b;
+        this.h = h;
         this.position = new Position(x,y);
     }
 
 
     @Override
     public double getArea() {
-        return a*b;
+        return (a*h)*1/2;
     }
 
     @Override
     public double getPerimeter() {
-        return 2*a+2*b;
+        return a*3;
     }
 
     @Override
@@ -33,7 +33,7 @@ public class Rectangle extends Shape implements Resizable {
 
     @Override
     public String toString() {
-        return "\nRectangle:\n" +
+        return "\nTriangle:\n" +
                 "Area: " + getArea() +
                 ", Perimeter: " + getPerimeter() +
                 ", Position: " + getPosition();
@@ -43,21 +43,22 @@ public class Rectangle extends Shape implements Resizable {
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-        Rectangle rectangle = (Rectangle) o;
-        return Double.compare(rectangle.a, a) == 0 &&
-                Double.compare(rectangle.b, b) == 0 &&
-                position.equals(rectangle.position);
+        Triangle triangle = (Triangle) o;
+        return Double.compare(triangle.a, a) == 0 &&
+                Double.compare(triangle.h, h) == 0 &&
+                position.equals(triangle.position);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(a, b, position);
+        return Objects.hash(a, h, position);
     }
 
     @Override
     public void resize(Double s) {
         this.a = a+s;
-        this.b = b+s;
+        this.h = h+s;
+
     }
 
     @Override

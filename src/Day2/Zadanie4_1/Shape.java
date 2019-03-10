@@ -1,4 +1,4 @@
-package Zadanie4;
+package Day2.Zadanie4_1;
 
 public abstract class Shape implements Movable,Resizable {
     public abstract double getArea();

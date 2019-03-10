@@ -1,59 +1,59 @@
-package Zadanie4;
-
+package Day2.Zadanie4_1;
 
 import java.util.Objects;
 
-public class Circle extends Shape implements Resizable {
-
-    protected double r;
+public class Square extends Shape implements Resizable {
+    protected double a;  // dlugosc boku
     protected Position position;
     protected int x;
     protected int y;
 
-    public Circle(double r, int x, int y){
-        this.r = r;
-        this.position = new Position(x,y);
+    public Square(double a, int x, int y) {
+        this.a = a;
+        this.position = new Position(x, y);
     }
+
+
     @Override
     public double getArea() {
-        return Math.PI*r*r;
+        return a * a;
     }
 
     @Override
     public double getPerimeter() {
-        return 2*Math.PI*r;
+        return 4 * a;
     }
 
     @Override
     public Position getPosition() {
-        return this.position;
+        return position;
     }
 
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-        Circle circle = (Circle) o;
-        return Double.compare(circle.r, r) == 0 &&
-                position.equals(circle.position);
+        Square square = (Square) o;
+        return Double.compare(square.a, a) == 0 &&
+                position.equals(square.position);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(r, position);
+        return Objects.hash(a, position);
     }
 
     @Override
     public String toString() {
-        return "\nCircle:\n" +
+        return "\nSquare:\n" +
                 "Area: " + getArea() +
-                ", Perimeter: " +getPerimeter() +
-                ", Position: " +getPosition();
+                ", Perimeter: " + getPerimeter() +
+                ", Position: " + getPosition();
     }
 
     @Override
     public void resize(Double s) {
-        this.r = r+s;
+        this.a = a + s;
     }
 
     @Override

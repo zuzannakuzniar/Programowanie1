@@ -1,4 +1,4 @@
-package Zadanie4;
+package Day2.Zadanie4_1;
 
 public interface Resizable {
     public void resize(Double s);

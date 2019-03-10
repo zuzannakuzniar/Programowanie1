@@ -1,9 +1,7 @@
-package Zadanie4;
+package Day2.Zadanie4_1;
 
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
 
 public class Shapes {
     public static void main(String[] args) {

@@ -19,7 +19,7 @@ public class Zad3 {
     }
 
     public static void main(String[] args) {
-        String wyraz = "kotek";
+        String wyraz = "zuzia";
         Map<Character,Integer> mapa;
         Zad3 zad3 = new Zad3();
         mapa = zad3.chain(wyraz);

@@ -2,46 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc3fcfef-e7de-4a6c-880e-613a873d425a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Wątki/MyRunnable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Wątki/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie4_1/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie4_1/Movable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie4_1/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie4_1/Resizable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie4_1/Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie4_1/Shapes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie4_1/Square.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie4_1/Triangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie5/Zad1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie5/Zad2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie5/Zad3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/Wątki/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/Zadanie5/Zad1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/Zadanie5/Zad2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/Zadanie5/Zad3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/SchematyBlokoweiPseudokody/PseudoKod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/SchematyBlokoweiPseudokody/Silnia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/SchematyBlokoweiPseudokody/Suma2Liczb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/SchematyBlokoweiPseudokody/SumaLiczbPierwszych.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/SchematyBlokoweiPseudokody/WartoscBezwgledna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/ZadaniaTablice/Zad1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/ZadaniaTablice/Zad2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/ZadaniaTablice/Zad3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/Zadanie5_3/Zad1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramowanieI/Wątki/MyRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramowanieI/Wątki/MyThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramowanieI/Zadanie4/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramowanieI/Zadanie4/Movable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramowanieI/Zadanie4/Position.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie4_1/Position.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramowanieI/Zadanie4/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramowanieI/Zadanie4/Resizable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramowanieI/Zadanie4/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramowanieI/Zadanie4/Shapes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramowanieI/Zadanie4/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramowanieI/Zadanie4/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wątki/MyRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2/Wątki/MyRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wątki/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zadanie4/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2/Zadanie4_1/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zadanie4/Movable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2/Zadanie4_1/Movable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zadanie4/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2/Zadanie4_1/Position.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zadanie4/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2/Zadanie4_1/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zadanie4/Resizable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2/Zadanie4_1/Resizable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zadanie4/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2/Zadanie4_1/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zadanie4/Shapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2/Zadanie4_1/Shapes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zadanie4/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2/Zadanie4_1/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zadanie4/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2/Zadanie4_1/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie5/Zad3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramowanieI/Day2/Zadanie5/Zad3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day2/Zadanie5/Zad3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2/Zadanie5/Zad3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,44 +23,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Day2/Zadanie5/Zad1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Day2/Zadanie5/Zad2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Day2/Zadanie5/Zad3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -104,10 +39,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Zadania1.java" />
-        <option value="$PROJECT_DIR$/src/Zad1.java" />
-        <option value="$PROJECT_DIR$/src/Zad2.java" />
-        <option value="$PROJECT_DIR$/src/Zadanie1/Zadanie4.java" />
         <option value="$PROJECT_DIR$/src/Zadanie1/Zad3.java" />
         <option value="$PROJECT_DIR$/src/Zadanie1/Zad4.java" />
         <option value="$PROJECT_DIR$/src/Zadanie1/Zad5.java" />
@@ -149,6 +80,16 @@
         <option value="$PROJECT_DIR$/src/Day2/Zadanie5/Zad1.java" />
         <option value="$PROJECT_DIR$/src/Day2/Zadanie5/Zad2.java" />
         <option value="$PROJECT_DIR$/src/Day2/Zadanie5/Zad3.java" />
+        <option value="$PROJECT_DIR$/src/Day3/PseudoKod.java" />
+        <option value="$PROJECT_DIR$/src/Day3/WartoscBezwgledna.java" />
+        <option value="$PROJECT_DIR$/src/Day3/Suma2Liczb.java" />
+        <option value="$PROJECT_DIR$/src/Day3/Silnia.java" />
+        <option value="$PROJECT_DIR$/src/Day3/SumaLiczbPierwszych.java" />
+        <option value="$PROJECT_DIR$/src/Day3/Zad2.java" />
+        <option value="$PROJECT_DIR$/src/Day3/Zad1.java" />
+        <option value="$PROJECT_DIR$/src/Day3/Zad3.java" />
+        <option value="$PROJECT_DIR$/src/Day3/Zadanie5_3/Zad1.java" />
+        <option value="$PROJECT_DIR$/src/Day3/ZadaniaTablice/Zad3.java" />
       </list>
     </option>
   </component>
@@ -190,7 +131,14 @@
               <item name="Day1" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProgramowanieI" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Day2" type="462c0819:PsiDirectoryNode" />
+              <item name="Day3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgramowanieI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Day3" type="462c0819:PsiDirectoryNode" />
+              <item name="Zadanie5_3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -199,7 +147,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552204917241" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552229864147" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -224,12 +172,12 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Zad3">
-    <configuration name="MyRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2.Wątki.MyRunnable" />
+    <configuration name="Silnia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3.SchematyBlokoweiPseudokody.Silnia" />
       <module name="ProgramowanieI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day2.Wątki.*" />
+          <option name="PATTERN" value="Day3.ZadaniaTablice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2.Wątki.MyThread" />
+    <configuration name="SumaLiczbPierwszych" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3.SchematyBlokoweiPseudokody.SumaLiczbPierwszych" />
       <module name="ProgramowanieI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day2.Wątki.*" />
+          <option name="PATTERN" value="Day3.ZadaniaTablice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,11 +199,11 @@
       </method>
     </configuration>
     <configuration name="Zad1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2.Zadanie5.Zad1" />
+      <option name="MAIN_CLASS_NAME" value="Day3.ZadaniaTablice.Zad1" />
       <module name="ProgramowanieI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day2.Zadanie5.*" />
+          <option name="PATTERN" value="Day3.ZadaniaTablice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,11 +212,11 @@
       </method>
     </configuration>
     <configuration name="Zad2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2.Zadanie5.Zad2" />
+      <option name="MAIN_CLASS_NAME" value="Day3.ZadaniaTablice.Zad2" />
       <module name="ProgramowanieI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day2.Zadanie5.*" />
+          <option name="PATTERN" value="Day3.ZadaniaTablice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,11 +225,11 @@
       </method>
     </configuration>
     <configuration name="Zad3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2.Zadanie5.Zad3" />
+      <option name="MAIN_CLASS_NAME" value="Day3.ZadaniaTablice.Zad3" />
       <module name="ProgramowanieI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day2.Zadanie5.*" />
+          <option name="PATTERN" value="Day3.ZadaniaTablice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,10 +240,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Zad3" />
-        <item itemvalue="Application.Zad2" />
         <item itemvalue="Application.Zad1" />
-        <item itemvalue="Application.MyThread" />
-        <item itemvalue="Application.MyRunnable" />
+        <item itemvalue="Application.Zad2" />
+        <item itemvalue="Application.SumaLiczbPierwszych" />
+        <item itemvalue="Application.Silnia" />
       </list>
     </recent_temporary>
   </component>
@@ -312,10 +260,19 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1932886" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1932886" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -324,12 +281,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38101983" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31161472" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286119" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
@@ -338,9 +295,9 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.3295302" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.3295302" />
       <window_info anchor="right" id="PlantUML" order="8" weight="0.3295302" />
     </layout>
     <layout-to-restore>
@@ -387,16 +344,15 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Day1/Zadanie3/Zad4.java</url>
-          <line>6</line>
+          <url>file://$PROJECT_DIR$/src/Day3/ZadaniaTablice/Zad1.java</url>
+          <line>22</line>
           <properties />
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Programowanie I.iml" />
     <entry file="file://$PROJECT_DIR$/src/Day1/Zadanie1/Zad1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -547,13 +503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Day1/Zadanie3/Zad4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
@@ -756,13 +705,86 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day1/Zadanie3/Zad4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Day2/Zadanie5/Zad3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="301">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day3/SchematyBlokoweiPseudokody/WartoscBezwgledna.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day3/SchematyBlokoweiPseudokody/SumaLiczbPierwszych.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day3/SchematyBlokoweiPseudokody/Suma2Liczb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day3/SchematyBlokoweiPseudokody/Silnia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day3/SchematyBlokoweiPseudokody/PseudoKod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day3/ZadaniaTablice/Zad1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day3/Zadanie5_3/Zad1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day3/ZadaniaTablice/Zad2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day3/ZadaniaTablice/Zad3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
